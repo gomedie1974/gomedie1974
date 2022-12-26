@@ -1,6 +1,6 @@
 <h2> Hola, soy Diego Gomez! <img src="https://media.giphy.com/media/TfjcKnQD1k3Xn3t1cw/giphy.gif" width="50"></h2>
 
-<p><em>Software Engineer Full Stack</em></p>
+<p><em>Desarrollador Full Stack</em></p>
 
 [![Linkedin: GomezDiego](https://img.shields.io/badge/-GomezDiego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegogomez1974/)](https://www.linkedin.com/in/diegogomez1974/)
 [![GitHub gomedie1974](https://img.shields.io/badge/-gomedie1974-white?style=flat-square&logo=github&logoColor=black&link=https://github.com/gomedie1974/)](https://github.com/gomedie1974)
