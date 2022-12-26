@@ -5,6 +5,7 @@
 [![Linkedin: GomezDiego](https://img.shields.io/badge/-GomezDiego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegogomez1974/)](https://www.linkedin.com/in/diegogomez1974/)
 [![GitHub gomedie1974](https://img.shields.io/badge/-gomedie1974-white?style=flat-square&logo=github&logoColor=black&link=https://github.com/gomedie1974/)](https://github.com/gomedie1974)
 
+### <img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"> A little more about me...  
 
 ```javascript
 const die = {
