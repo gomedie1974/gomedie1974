@@ -5,13 +5,13 @@
 [![Linkedin: GomezDiego](https://img.shields.io/badge/-GomezDiego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegogomez1974/)](https://www.linkedin.com/in/diegogomez1974/)
 [![GitHub gomedie1974](https://img.shields.io/badge/-gomedie1974-white?style=flat-square&logo=github&logoColor=black&link=https://github.com/gomedie1974/)](https://github.com/gomedie1974)
 
-### <img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"> Un poco más sobre mí...  
+### <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"> Un poco más sobre mí...  
 
 ```javascript
 const die = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Sass, Wordpress],
-  architecture: ["web design", "e-commerce", "front end"],
+  arcitecture: ["web design", "e-commerce", "front end"],
 }
 ```
 
