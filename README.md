@@ -6,12 +6,11 @@
 [![GitHub gomedie1974](https://img.shields.io/badge/-gomedie1974-white?style=flat-square&logo=github&logoColor=black&link=https://github.com/gomedie1974/)](https://github.com/gomedie1974)
 
 
-```[![GitHub gomedie1974](https://img.shields.io/github/followers/gomedie1974?label=follow&style=social)](https://github.com/gomedie1974)
-
+```javascript
 const die = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Sass, Wordpress],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["web design", "e-commerce", "front end"],
 }
 ```
 
