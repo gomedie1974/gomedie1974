@@ -1,4 +1,4 @@
-<h2> Hola, soy Diego Gomez! <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy-downsized.gif" width="50"></h2>
+<h2> Hola, soy Diego Gomez! <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy-downsized.gif" width="70"></h2>
 
 <p><em>Desarrollador Full Stack</em></p>
 
