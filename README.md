@@ -10,7 +10,7 @@
 ```javascript
 const die = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Sass, Bootstrap, Wordpress, SQL],
+  code: [HTML, CSS, Sass, Javascript, React, Bootstrap, Wordpress],
   arcitecture: ["web design", "e-commerce", "front end"],
 }
 ```
